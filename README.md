@@ -7,10 +7,6 @@ An end-to-end Machine Learning based Fraud Detection System that predicts fraudu
   <img src="dashboard.png" width="100%">
 </p>
 
-<h1 align="center">
-🛡️ AI Fraud Detection & Risk Analytics System
-</h1>
-
 <p align="center">
 Machine Learning Based Real-Time Fraud Detection Platform
 </p>
@@ -136,19 +132,19 @@ Dashboard Analytics & PDF Report
 
 ### Dashboard Home
 
-<img width="100%" src="screenshots/dashboard.png"/>
+<img width="100%" src="dashboard.png"/>
 
 ### Fraud Prediction
 
-<img width="100%" src="screenshots/prediction.png"/>
+<img width="100%" src="graph.png"/>
 
 ### Risk Analytics
 
-<img width="100%" src="screenshots/risk-analysis.png"/>
+<img width="100%" src="risk.png"/>
 
 ### Transaction History
 
-<img width="100%" src="screenshots/history.png"/>
+<img width="100%" src="fraud.png"/>
 
 ---
 
