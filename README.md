@@ -1,20 +1,161 @@
-<<<<<<< HEAD
-# React + Vite
+# 🛡️ AI Fraud Detection & Risk Analytics System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An end-to-end Machine Learning based Fraud Detection System that predicts fraudulent financial transactions in real-time using a Random Forest Classifier and provides an interactive analytics dashboard built with React.js and FastAPI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+### Frontend
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://ai-fraud-system.vercel.app/
 
-## Expanding the ESLint configuration
+### Backend API
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# AI-Fraud-System
->>>>>>> e49f730edb621ccdecd0efe3d0927203f47a4c52
+https://ai-fraud-system-exn5.onrender.com
+
+---
+
+## 📌 Features
+
+✅ Real-Time Fraud Prediction
+
+✅ Random Forest Machine Learning Model
+
+✅ FastAPI REST API
+
+✅ React.js Dashboard
+
+✅ Fraud Probability Scoring
+
+✅ Interactive Pie Chart Analytics
+
+✅ Fraud Trend Visualization
+
+✅ Transaction History Tracking
+
+✅ PDF Report Generation
+
+✅ Responsive Modern UI
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* Tailwind CSS
+* Axios
+* Recharts
+* jsPDF
+
+### Backend
+
+* FastAPI
+* Python
+* NumPy
+* Joblib
+
+### Machine Learning
+
+* Scikit-Learn
+* Random Forest Classifier
+
+### Deployment
+
+* Vercel
+* Render
+
+---
+
+## 📊 Dataset
+
+Credit Card Fraud Detection Dataset
+
+Total Transactions: 284,807
+
+Fraud Transactions: 492
+
+Fraud Rate: 0.17%
+
+---
+
+## 🏗️ System Architecture
+
+User Input
+
+↓
+
+React Dashboard
+
+↓
+
+Axios API Request
+
+↓
+
+FastAPI Backend
+
+↓
+
+Random Forest Model
+
+↓
+
+Prediction Response
+
+↓
+
+Dashboard Analytics & PDF Report
+
+---
+
+## 📸 Screenshots
+
+### Dashboard Home
+
+<img width="100%" src="screenshots/dashboard.png"/>
+
+### Fraud Prediction
+
+<img width="100%" src="screenshots/prediction.png"/>
+
+### Risk Analytics
+
+<img width="100%" src="screenshots/risk-analysis.png"/>
+
+### Transaction History
+
+<img width="100%" src="screenshots/history.png"/>
+
+---
+
+
+
+
+## 📈 Model Performance
+
+Accuracy: 92%+
+
+Fraud Probability Prediction
+
+Safe Transaction Prediction
+
+Real-Time Risk Scoring
+
+---
+
+## 👨‍💻 Author
+
+Pawan Jogi
+
+GitHub:
+https://github.com/PawanJogi07
+
+LinkedIn:
+
+](https://www.linkedin.com/in/pawan-jogi-716992338/)
+
+---
+
