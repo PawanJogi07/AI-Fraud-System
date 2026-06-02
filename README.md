@@ -3,6 +3,27 @@
 An end-to-end Machine Learning based Fraud Detection System that predicts fraudulent financial transactions in real-time using a Random Forest Classifier and provides an interactive analytics dashboard built with React.js and FastAPI.
 
 ---
+<p align="center">
+  <img src="dashboard.png" width="100%">
+</p>
+
+<h1 align="center">
+🛡️ AI Fraud Detection & Risk Analytics System
+</h1>
+
+<p align="center">
+Machine Learning Based Real-Time Fraud Detection Platform
+</p>
+
+
+
+
+
+
+
+
+
+
 
 ## 🚀 Live Demo
 
